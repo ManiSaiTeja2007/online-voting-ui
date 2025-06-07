@@ -2,7 +2,7 @@
   "name": "online-voting-ui",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://your-username.github.io/online-voting-ui",
+  "homepage": "https://manisaiteja2007.github.io/online-voting-ui/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
